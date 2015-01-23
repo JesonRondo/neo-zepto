@@ -1,0 +1,56 @@
+{
+  "name": "neo-zepto",
+  "version": "1.0.0",
+  "description": "Browserify version of Zepto with deferred",
+  "main": "index.js",
+  "scripts": {
+    "prepublish": "node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:JesonRondo/neo-zepto.git"
+  },
+  "keywords": [
+    "zepto",
+    "browserify",
+    "browser",
+    "deferred"
+  ],
+  "author": {
+    "name": "longzhou",
+    "email": "pancnlz@gmail.com",
+    "url": "longzhou.me"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JesonRondo/neo-zepto/issues"
+  },
+  "homepage": "https://github.com/JesonRondo/neo-zepto",
+  "devDependencies": {
+    "q-io": "~1.10.8"
+  },
+  "_id": "neo-zepto@1.0.0",
+  "_shasum": "d36c9e92209c79dc47d6e060ad5f54c4a7e135a0",
+  "_from": "neo-zepto@*",
+  "_npmVersion": "1.4.9",
+  "_npmUser": {
+    "name": "pancnlz",
+    "email": "pancnlz@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "longzhou",
+      "email": "pancnlz@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "d36c9e92209c79dc47d6e060ad5f54c4a7e135a0",
+    "size": 15861,
+    "noattachment": false,
+    "tarball": "http://registry.npm.taobao.org/neo-zepto/download/neo-zepto-1.0.0.tgz"
+  },
+  "directories": {},
+  "publish_time": 1404809121041,
+  "_cnpm_publish_time": 1404809121041,
+  "_resolved": "https://registry.npm.taobao.org/neo-zepto/download/neo-zepto-1.0.0.tgz"
+}
